@@ -1,0 +1,6 @@
+Mismatch Type,Count,Details File
+Records Missing in Gateway,2,missing_in_gateway.xlsx
+Records Missing in Ledger,1,missing_in_ledger.xlsx
+Amount Mismatches,2,amount_mismatches.xlsx
+Status Mismatches,1,status_mismatches.xlsx
+Total Mismatched Amount (INR),7470,amount_mismatches.xlsx
