@@ -1,0 +1,27 @@
+[
+    {
+        "Mismatch Type":"Records Missing in Gateway",
+        "Count":2.0,
+        "Details File":"missing_in_gateway.xlsx"
+    },
+    {
+        "Mismatch Type":"Records Missing in Ledger",
+        "Count":1.0,
+        "Details File":"missing_in_ledger.xlsx"
+    },
+    {
+        "Mismatch Type":"Amount Mismatches",
+        "Count":2.0,
+        "Details File":"amount_mismatches.xlsx"
+    },
+    {
+        "Mismatch Type":"Status Mismatches",
+        "Count":1.0,
+        "Details File":"status_mismatches.xlsx"
+    },
+    {
+        "Mismatch Type":"Total Mismatched Amount (INR)",
+        "Count":7470.0,
+        "Details File":"amount_mismatches.xlsx"
+    }
+]
